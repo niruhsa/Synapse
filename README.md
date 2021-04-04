@@ -6,7 +6,7 @@ Types:
  - Subtraction (2)
  - Multiplication (3)
  - Division (4)
- - PI Multiuply Add (5)
+ - PI Multiply Add (5)
  - Sine (6)
  - cosine (7)
  - Tangent (8)
